@@ -5,7 +5,7 @@ This package simply integrates and bundles Cacheman to be used easily within Sai
 ## Install the package
 ~~~
     # npm install sailsjs-cacheman --save
-    # npm install git://github.com/cjy37/sailsjs-cacheman#0.1.4 --save
+    # npm install git://github.com/cjy37/sailsjs-cacheman --save
 ~~~
 
 The cache object can be called within your app by :
